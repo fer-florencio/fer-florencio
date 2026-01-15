@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @fer-florencio
-- 👀 I’m interested in IoT projects
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on IoT projects
+- 👀 I’m interested in Data projects
+- 🌱 I’m currently learning python for Data Eng
 - 📫 How to reach me fernando.florencio18@yahoo.com.br
 
 <!---
